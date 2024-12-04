@@ -1,0 +1,5 @@
+# Project files
+library_data.json
+
+# Other ignore
+.idea
